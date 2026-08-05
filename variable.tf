@@ -1,4 +1,4 @@
-variable "instance_types" {
+variable "instance_type" {
 
 }
 
@@ -6,6 +6,6 @@ variable "ami_id" {
 
 }
 
-region "regions" {
+variable "region" {
 
 }

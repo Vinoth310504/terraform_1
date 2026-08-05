@@ -10,5 +10,5 @@ terraform {
 }
 
 provider "aws" {
-  region = "regions"   # Mumbai Region
+  region = "region"   # Mumbai Region
 }
